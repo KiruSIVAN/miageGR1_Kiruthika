@@ -1,0 +1,11 @@
+# Ignore Gradle build folder
+.gradle/
+
+# Ignore build results
+/build/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Gradle wrapper files
+gradle/wrapper/gradle-wrapper.jar
